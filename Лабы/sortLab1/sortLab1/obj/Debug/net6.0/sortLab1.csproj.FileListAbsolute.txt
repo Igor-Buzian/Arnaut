@@ -1,0 +1,15 @@
+I:\C#\sortLab1\sortLab1\bin\Debug\net6.0\sortLab1.exe
+I:\C#\sortLab1\sortLab1\bin\Debug\net6.0\sortLab1.deps.json
+I:\C#\sortLab1\sortLab1\bin\Debug\net6.0\sortLab1.runtimeconfig.json
+I:\C#\sortLab1\sortLab1\bin\Debug\net6.0\sortLab1.dll
+I:\C#\sortLab1\sortLab1\bin\Debug\net6.0\sortLab1.pdb
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.csproj.AssemblyReference.cache
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.AssemblyInfoInputs.cache
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.AssemblyInfo.cs
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.csproj.CoreCompileInputs.cache
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.dll
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\refint\sortLab1.dll
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.pdb
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\sortLab1.genruntimeconfig.cache
+I:\C#\sortLab1\sortLab1\obj\Debug\net6.0\ref\sortLab1.dll

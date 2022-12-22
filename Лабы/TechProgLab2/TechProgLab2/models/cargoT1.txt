@@ -1,0 +1,5 @@
+First place: asd
+Last place: sad
+Amount Of Car:3 inches
+Cargo type: Car
+Date: 01.01.0001 00:00:00

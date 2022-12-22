@@ -1,0 +1,5 @@
+First place: ыфв
+Last place: фыв
+Amount Of Car:1 inches
+Cargo type: Car
+Date: 01.01.0001 00:00:00

@@ -1,0 +1,15 @@
+I:\C#\TechProgLab2\TechProgLab2\bin\Debug\net6.0\TechProgLab2.exe
+I:\C#\TechProgLab2\TechProgLab2\bin\Debug\net6.0\TechProgLab2.deps.json
+I:\C#\TechProgLab2\TechProgLab2\bin\Debug\net6.0\TechProgLab2.runtimeconfig.json
+I:\C#\TechProgLab2\TechProgLab2\bin\Debug\net6.0\TechProgLab2.dll
+I:\C#\TechProgLab2\TechProgLab2\bin\Debug\net6.0\TechProgLab2.pdb
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.csproj.AssemblyReference.cache
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.AssemblyInfoInputs.cache
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.AssemblyInfo.cs
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.csproj.CoreCompileInputs.cache
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.dll
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\refint\TechProgLab2.dll
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.pdb
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\TechProgLab2.genruntimeconfig.cache
+I:\C#\TechProgLab2\TechProgLab2\obj\Debug\net6.0\ref\TechProgLab2.dll

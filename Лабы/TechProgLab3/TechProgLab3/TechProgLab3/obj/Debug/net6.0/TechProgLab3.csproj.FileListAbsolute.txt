@@ -1,0 +1,15 @@
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\bin\Debug\net6.0\TechProgLab3.exe
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\bin\Debug\net6.0\TechProgLab3.deps.json
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\bin\Debug\net6.0\TechProgLab3.runtimeconfig.json
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\bin\Debug\net6.0\TechProgLab3.dll
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\bin\Debug\net6.0\TechProgLab3.pdb
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.csproj.AssemblyReference.cache
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.AssemblyInfoInputs.cache
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.AssemblyInfo.cs
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.csproj.CoreCompileInputs.cache
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.dll
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\refint\TechProgLab3.dll
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.pdb
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\TechProgLab3.genruntimeconfig.cache
+I:\GitHub\Arnaut\Лабы\TechProgLab3\TechProgLab3\TechProgLab3\obj\Debug\net6.0\ref\TechProgLab3.dll
